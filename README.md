@@ -18,4 +18,5 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
    * Responsive images
 
 * The Bootstrap portfolio should minimize the use of media queries.
+* Link:https://donovanjongwen.github.io/Homework_WK2_Responsive_Portfolio/
 
